@@ -1,0 +1,8266 @@
+ {
+  "aamon": {
+    "name": "Aamon",
+    "icon": "️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2455",
+          "3123",
+          "3958",
+          "4793"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "155",
+          "205",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "36",
+          "57",
+          "79"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.09",
+          "1.15",
+          "1.22",
+          "1.30"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "9.8",
+          "12.0",
+          "14.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "akai": {
+    "name": "Akai",
+    "icon": "",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2560",
+          "3532",
+          "4747",
+          "5962"
+        ],
+        [
+          "Physical ATK",
+          "128",
+          "150",
+          "178",
+          "207"
+        ],
+        [
+          "Physical Defense",
+          "24",
+          "50",
+          "84",
+          "117"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.14",
+          "1.24",
+          "1.34"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [
+      {
+        "stat": "HP Growth",
+        "value": "+243 HP/level"
+      }
+    ],
+    "conclusion": [
+      "+243 HP",
+      "+5.6 Physical ATK",
+      "+6.6 Physical Defense"
+    ]
+  },
+  "aldous": {
+    "name": "Aldous",
+    "icon": "🥊",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2490",
+          "3310",
+          "4335",
+          "5360"
+        ],
+        [
+          "Physical ATK",
+          "129",
+          "172",
+          "225",
+          "279"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "61",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.04",
+          "1.08",
+          "1.13",
+          "1.18"
+        ],
+        [
+          "HP Regen",
+          "9.8",
+          "11.6",
+          "14.2",
+          "16.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "alice": {
+    "name": "Alice",
+    "icon": "🩸",
+    "roles": [
+      "mage",
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2452",
+          "3180",
+          "4090",
+          "5000"
+        ],
+        [
+          "Physical ATK",
+          "114",
+          "136",
+          "163",
+          "191"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "41",
+          "61",
+          "81"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.10",
+          "1.22",
+          "1.35"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ],
+        [
+          "Mana",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "growth": [
+      {
+        "stat": "HP Growth",
+        "value": "+182 HP/level"
+      }
+    ],
+    "conclusion": [
+      "+182 HP",
+      "+5.5 Physical ATK",
+      "0 Mana (Hero tanpa Mana)"
+    ]
+  },
+  "alpha": {
+    "name": "Alpha",
+    "icon": "🤖",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2468",
+          "3404",
+          "4574",
+          "5744"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "154",
+          "196",
+          "238"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "42",
+          "64",
+          "86"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.26",
+          "1.41",
+          "1.56"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.8",
+          "12.4",
+          "15.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "alucard": {
+    "name": "Alucard",
+    "icon": "⚔️",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2443",
+          "3343",
+          "4468",
+          "5593"
+        ],
+        [
+          "Physical ATK",
+          "123",
+          "157",
+          "200",
+          "244"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "62",
+          "85"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.12",
+          "1.24",
+          "1.39",
+          "1.54"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "angela": {
+    "name": "Angela",
+    "icon": "🧸",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2900",
+          "3650",
+          "4400"
+        ],
+        [
+          "Physical ATK",
+          "100",
+          "120",
+          "145",
+          "170"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.95",
+          "1.00",
+          "1.06",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ],
+        [
+          "Mana",
+          "500",
+          "900",
+          "1400",
+          "1900"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "argus": {
+    "name": "Argus",
+    "icon": "👿",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2450",
+          "3242",
+          "4232",
+          "5222"
+        ],
+        [
+          "Physical ATK",
+          "111",
+          "135",
+          "165",
+          "195"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "37",
+          "57",
+          "78"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.09",
+          "1.13",
+          "1.18",
+          "1.23"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "9.6",
+          "11.6",
+          "13.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "arlott": {
+    "name": "Arlott",
+    "icon": "🔥",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2450",
+          "3310",
+          "4385",
+          "5460"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "160",
+          "210",
+          "260"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "38",
+          "60",
+          "82"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.09",
+          "1.13",
+          "1.18",
+          "1.23"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "9.8",
+          "12.0",
+          "14.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "atlas": {
+    "name": "Atlas",
+    "icon": "⛓️",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2710",
+          "3682",
+          "4897",
+          "6112"
+        ],
+        [
+          "Physical ATK",
+          "135",
+          "168",
+          "209",
+          "250"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "49",
+          "85",
+          "121"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "aulus": {
+    "name": "Aulus",
+    "icon": "🦁",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2580",
+          "3460",
+          "4560",
+          "5660"
+        ],
+        [
+          "Physical ATK",
+          "90",
+          "141",
+          "204",
+          "268"
+        ],
+        [
+          "Physical Defense",
+          "24",
+          "41",
+          "63",
+          "85"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.92",
+          "0.98",
+          "1.05",
+          "1.13"
+        ],
+        [
+          "HP Regen",
+          "10.2",
+          "12.0",
+          "14.2",
+          "16.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "aurora": {
+    "name": "Aurora",
+    "icon": "❄️",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "143",
+          "184",
+          "225"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.06",
+          "1.13",
+          "1.21"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "badang": {
+    "name": "Badang",
+    "icon": "💪",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2530",
+          "3470",
+          "4645",
+          "5820"
+        ],
+        [
+          "Physical ATK",
+          "111",
+          "149",
+          "196",
+          "244"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "41",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.13",
+          "1.25",
+          "1.40",
+          "1.55"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "9.6",
+          "11.8",
+          "13.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "balmond": {
+    "name": "Balmond",
+    "icon": "",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2558",
+          "3602",
+          "4907",
+          "6212"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "152",
+          "195",
+          "237"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "43",
+          "67",
+          "90"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.14",
+          "1.24",
+          "1.34"
+        ],
+        [
+          "HP Regen",
+          "9.4",
+          "11.8",
+          "14.8",
+          "17.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "bane": {
+    "name": "Bane",
+    "icon": "🦐",
+    "roles": [
+      "mage",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2381",
+          "3361",
+          "4586",
+          "5811"
+        ],
+        [
+          "Physical ATK",
+          "117",
+          "160",
+          "215",
+          "269"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "40",
+          "62",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.14",
+          "1.24",
+          "1.34"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "barats": {
+    "name": "Barats",
+    "icon": "👹",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2450",
+          "3426",
+          "4646",
+          "5866"
+        ],
+        [
+          "Physical ATK",
+          "135",
+          "155",
+          "181",
+          "207"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "47",
+          "77",
+          "107"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "8.8",
+          "11.2",
+          "14.2",
+          "17.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "baxia": {
+    "name": "Baxia",
+    "icon": "🛡️",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2660",
+          "3492",
+          "4532",
+          "5572"
+        ],
+        [
+          "Physical ATK",
+          "125",
+          "147",
+          "175",
+          "204"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "48",
+          "79",
+          "111"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.08",
+          "1.18",
+          "1.28"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "beatrix": {
+    "name": "Beatrix",
+    "icon": "",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2280",
+          "2960",
+          "3810",
+          "4660"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "148",
+          "195",
+          "243"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "36",
+          "56",
+          "77"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.07",
+          "1.17",
+          "1.29",
+          "1.42"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.0",
+          "10.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "belerick": {
+    "name": "Belerick",
+    "icon": "🌳",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2460",
+          "3420",
+          "4620",
+          "5820"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "138",
+          "173",
+          "208"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "41",
+          "74",
+          "107"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "benedetta": {
+    "name": "Benedetta",
+    "icon": "⚔️",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2410",
+          "3122",
+          "4012",
+          "4902"
+        ],
+        [
+          "Physical ATK",
+          "113",
+          "154",
+          "205",
+          "256"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.10",
+          "1.18",
+          "1.28",
+          "1.38"
+        ],
+        [
+          "HP Regen",
+          "6.6",
+          "8.4",
+          "10.6",
+          "12.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "brody": {
+    "name": "Brody",
+    "icon": "🔫",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2290",
+          "2950",
+          "3775",
+          "4600"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "153",
+          "213",
+          "273"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "36",
+          "57",
+          "78"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.20",
+          "1.40",
+          "1.65",
+          "1.90"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.2",
+          "10.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "bruno": {
+    "name": "Bruno",
+    "icon": "",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2270",
+          "2910",
+          "3710",
+          "4510"
+        ],
+        [
+          "Physical ATK",
+          "145",
+          "203",
+          "275",
+          "348"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "34",
+          "55",
+          "77"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.09",
+          "1.19",
+          "1.29"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "6.8",
+          "8.0",
+          "9.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "carmilla": {
+    "name": "Carmilla",
+    "icon": "🧛",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2419",
+          "3387",
+          "4597",
+          "5807"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "163",
+          "209",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "54",
+          "91",
+          "128"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.26",
+          "1.41",
+          "1.56"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.4",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "cecilion": {
+    "name": "Cecilion",
+    "icon": "",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "124",
+          "147",
+          "171"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "change": {
+    "name": "Chang'e",
+    "icon": "",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "2900",
+          "3625",
+          "4350"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "145",
+          "183",
+          "222"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "chip": {
+    "name": "Chip",
+    "icon": "🤖",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2481",
+          "3309",
+          "4344",
+          "5379"
+        ],
+        [
+          "Physical ATK",
+          "112",
+          "139",
+          "173",
+          "207"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "44",
+          "74",
+          "104"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.11",
+          "1.21",
+          "1.31"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "chou": {
+    "name": "Chou",
+    "icon": "🥋",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2530",
+          "3398",
+          "4483",
+          "5568"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "161",
+          "211",
+          "262"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "41",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.10",
+          "1.20",
+          "1.32",
+          "1.45"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "cici": {
+    "name": "Cici",
+    "icon": "🧚‍♀️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2431",
+          "3211",
+          "4186",
+          "5161"
+        ],
+        [
+          "Physical ATK",
+          "129",
+          "156",
+          "191",
+          "226"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "39",
+          "59",
+          "79"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.07",
+          "1.15",
+          "1.25",
+          "1.35"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "8.2",
+          "11.0",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "claude": {
+    "name": "Claude",
+    "icon": "🐵",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2250",
+          "2782",
+          "3447",
+          "4112"
+        ],
+        [
+          "Physical ATK",
+          "100",
+          "128",
+          "163",
+          "198"
+        ],
+        [
+          "Physical Defense",
+          "14",
+          "29",
+          "49",
+          "68"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.09",
+          "1.16",
+          "1.24"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "8.8",
+          "10.0",
+          "11.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "clint": {
+    "name": "Clint",
+    "icon": "🤠",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2285",
+          "2865",
+          "3590",
+          "4315"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "168",
+          "228",
+          "288"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "37",
+          "58",
+          "80"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.15",
+          "1.27",
+          "1.40"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.2",
+          "10.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "cyclops": {
+    "name": "Cyclops",
+    "icon": "👁️",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3140",
+          "4015",
+          "4890"
+        ],
+        [
+          "Physical ATK",
+          "112",
+          "135",
+          "164",
+          "193"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "7.6",
+          "8.8",
+          "10.4",
+          "12.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "diggie": {
+    "name": "Diggie",
+    "icon": "🦉",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2900",
+          "3650",
+          "4400"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "125",
+          "150",
+          "175"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.95",
+          "1.00",
+          "1.06",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "dyrroth": {
+    "name": "Dyrroth",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2580",
+          "3500",
+          "4650",
+          "5800"
+        ],
+        [
+          "Physical ATK",
+          "117",
+          "159",
+          "212",
+          "266"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "40",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.26",
+          "1.41",
+          "1.56"
+        ],
+        [
+          "HP Regen",
+          "8.2",
+          "10.0",
+          "12.6",
+          "15.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "edith": {
+    "name": "Edith",
+    "icon": "🛡️",
+    "roles": [
+      "tank",
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3340",
+          "4465",
+          "5590"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "133",
+          "161",
+          "190"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "44",
+          "78",
+          "112"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.94",
+          "0.94",
+          "0.94",
+          "0.94"
+        ],
+        [
+          "HP Regen",
+          "9.0",
+          "11.4",
+          "14.4",
+          "17.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "esmeralda": {
+    "name": "Esmeralda",
+    "icon": "💎",
+    "roles": [
+      "mage",
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2464",
+          "3290",
+          "4322",
+          "5355"
+        ],
+        [
+          "Physical ATK",
+          "114",
+          "136",
+          "163",
+          "191"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "46",
+          "77",
+          "109"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "estes": {
+    "name": "Estes",
+    "icon": "‍♂️",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2400",
+          "3000",
+          "3750",
+          "4500"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "130",
+          "155",
+          "180"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.95",
+          "1.00",
+          "1.06",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "eudora": {
+    "name": "Eudora",
+    "icon": "",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3140",
+          "4015",
+          "4890"
+        ],
+        [
+          "Physical ATK",
+          "112",
+          "135",
+          "164",
+          "193"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "7.6",
+          "8.8",
+          "10.4",
+          "12.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "fanny": {
+    "name": "Fanny",
+    "icon": "",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2267",
+          "2891",
+          "3671",
+          "4451"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "167",
+          "218",
+          "269"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "31",
+          "50",
+          "69"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.11",
+          "1.19",
+          "1.29",
+          "1.39"
+        ],
+        [
+          "HP Regen",
+          "6.6",
+          "8.2",
+          "10.4",
+          "12.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "faramis": {
+    "name": "Faramis",
+    "icon": "☠️",
+    "roles": [
+      "mage",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2500",
+          "3240",
+          "4165",
+          "5090"
+        ],
+        [
+          "Physical ATK",
+          "118",
+          "146",
+          "181",
+          "216"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "38",
+          "60",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "7.8",
+          "9.4",
+          "10.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "floryn": {
+    "name": "Floryn",
+    "icon": "🌸",
+    "roles": [
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2280",
+          "2860",
+          "3585",
+          "4310"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "148",
+          "185",
+          "222"
+        ],
+        [
+          "Physical Defense",
+          "12",
+          "28",
+          "48",
+          "68"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.97",
+          "1.02",
+          "1.08",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "franco": {
+    "name": "Franco",
+    "icon": "🪝",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2600",
+          "3724",
+          "5127",
+          "6534"
+        ],
+        [
+          "Physical ATK",
+          "116",
+          "145",
+          "181",
+          "217"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "56",
+          "95",
+          "134"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.09",
+          "1.16",
+          "1.24"
+        ],
+        [
+          "HP Regen",
+          "9.2",
+          "11.8",
+          "15.2",
+          "18.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "fredrinn": {
+    "name": "Fredrinn",
+    "icon": "🛡️",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2600",
+          "3620",
+          "4895",
+          "6170"
+        ],
+        [
+          "Physical ATK",
+          "125",
+          "158",
+          "199",
+          "240"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "43",
+          "72",
+          "101"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.14",
+          "1.24",
+          "1.34"
+        ],
+        [
+          "HP Regen",
+          "6.4",
+          "8.8",
+          "11.8",
+          "14.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "freya": {
+    "name": "Freya",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2550",
+          "3410",
+          "4485",
+          "5560"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "155",
+          "198",
+          "242"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "39",
+          "61",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.08",
+          "1.18",
+          "1.28"
+        ],
+        [
+          "HP Regen",
+          "9.8",
+          "11.6",
+          "13.8",
+          "16.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "gatotkaca": {
+    "name": "Gatotkaca",
+    "icon": "🔥",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2520",
+          "3420",
+          "4545",
+          "5670"
+        ],
+        [
+          "Physical ATK",
+          "128",
+          "156",
+          "192",
+          "228"
+        ],
+        [
+          "Physical Defense",
+          "10",
+          "35",
+          "67",
+          "99"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.02",
+          "1.08",
+          "1.15",
+          "1.23"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "gloo": {
+    "name": "Gloo",
+    "icon": "👾",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2710",
+          "3730",
+          "5005",
+          "6280"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "145",
+          "178",
+          "210"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "46",
+          "82",
+          "118"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "12.4",
+          "14.8",
+          "17.8",
+          "20.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "gord": {
+    "name": "Gord",
+    "icon": "🔮",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "134",
+          "165",
+          "196"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.96",
+          "1.00",
+          "1.05",
+          "1.10"
+        ],
+        [
+          "HP Regen",
+          "6.4",
+          "7.6",
+          "9.0",
+          "10.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "granger": {
+    "name": "Granger",
+    "icon": "",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2260",
+          "2820",
+          "3520",
+          "4220"
+        ],
+        [
+          "Physical ATK",
+          "116",
+          "176",
+          "251",
+          "326"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.02",
+          "1.08",
+          "1.15",
+          "1.23"
+        ],
+        [
+          "HP Regen",
+          "5.4",
+          "6.2",
+          "7.2",
+          "8.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "grock": {
+    "name": "Grock",
+    "icon": "🗿",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2819",
+          "3779",
+          "4979",
+          "6179"
+        ],
+        [
+          "Physical ATK",
+          "135",
+          "168",
+          "209",
+          "250"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "41",
+          "113",
+          "156"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "guinevere": {
+    "name": "Guinevere",
+    "icon": "🧚‍♀️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2350",
+          "3198",
+          "4258",
+          "5318"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "163",
+          "209",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "36",
+          "58",
+          "81"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.26",
+          "1.41",
+          "1.56"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.4",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "gusion": {
+    "name": "Gusion",
+    "icon": "🗡️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2419",
+          "3139",
+          "4039",
+          "4939"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "152",
+          "193",
+          "234"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "35",
+          "57",
+          "79"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.11",
+          "1.21",
+          "1.33",
+          "1.46"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "hanabi": {
+    "name": "Hanabi",
+    "icon": "🌸",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2260",
+          "2772",
+          "3412",
+          "4052"
+        ],
+        [
+          "Physical ATK",
+          "111",
+          "151",
+          "201",
+          "251"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.16",
+          "1.28",
+          "1.41"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "6.8",
+          "8.0",
+          "9.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "hanzo": {
+    "name": "Hanzo",
+    "icon": "👹",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2594",
+          "3174",
+          "3899",
+          "4624"
+        ],
+        [
+          "Physical ATK",
+          "108",
+          "140",
+          "180",
+          "220"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "38",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.16",
+          "1.26",
+          "1.36"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "harith": {
+    "name": "Harith",
+    "icon": "🌟",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2280",
+          "2984",
+          "3864",
+          "4744"
+        ],
+        [
+          "Physical ATK",
+          "114",
+          "135",
+          "161",
+          "187"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "36",
+          "57",
+          "79"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.11",
+          "1.18",
+          "1.26"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "harley": {
+    "name": "Harley",
+    "icon": "🎩",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "114",
+          "139",
+          "170",
+          "201"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "34",
+          "53",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.12",
+          "1.19",
+          "1.27"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "hayabusa": {
+    "name": "Hayabusa",
+    "icon": "🥷",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2270",
+          "2956",
+          "3813",
+          "4671"
+        ],
+        [
+          "Physical ATK",
+          "117",
+          "155",
+          "203",
+          "251"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "54",
+          "75"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.12",
+          "1.19",
+          "1.27"
+        ],
+        [
+          "HP Regen",
+          "7.4",
+          "9.2",
+          "11.4",
+          "13.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "helcurt": {
+    "name": "Helcurt",
+    "icon": "🦇",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3144",
+          "4024",
+          "4904"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "153",
+          "193",
+          "233"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.16",
+          "1.24",
+          "1.34",
+          "1.44"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "hilda": {
+    "name": "Hilda",
+    "icon": "🌲",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2680",
+          "3700",
+          "4975",
+          "6250"
+        ],
+        [
+          "Physical ATK",
+          "123",
+          "150",
+          "184",
+          "218"
+        ],
+        [
+          "Physical Defense",
+          "24",
+          "52",
+          "88",
+          "124"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.13",
+          "1.23",
+          "1.33"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "14.0",
+          "17.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "hylos": {
+    "name": "Hylos",
+    "icon": "",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2600",
+          "3840",
+          "5390",
+          "6940"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "131",
+          "164",
+          "198"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "39",
+          "66",
+          "94"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.11",
+          "1.21",
+          "1.31"
+        ],
+        [
+          "HP Regen",
+          "18.4",
+          "24.8",
+          "32.8",
+          "40.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "irithel": {
+    "name": "Irithel",
+    "icon": "🐆",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2940",
+          "3740",
+          "4540"
+        ],
+        [
+          "Physical ATK",
+          "125",
+          "159",
+          "201",
+          "244"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "34",
+          "55",
+          "77"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.09",
+          "1.16",
+          "1.24"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "7.8",
+          "9.0",
+          "10.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "ixia": {
+    "name": "Ixia",
+    "icon": "🕷️",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "3000",
+          "3850",
+          "4700"
+        ],
+        [
+          "Physical ATK",
+          "100",
+          "134",
+          "176",
+          "219"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.04",
+          "1.12",
+          "1.22",
+          "1.32"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "8.8",
+          "10.0",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "jawhead": {
+    "name": "Jawhead",
+    "icon": "🤖",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2480",
+          "3432",
+          "4622",
+          "5812"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "152",
+          "193",
+          "234"
+        ],
+        [
+          "Physical Defense",
+          "24",
+          "42",
+          "65",
+          "88"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.12",
+          "1.20",
+          "1.30",
+          "1.40"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.8",
+          "12.4",
+          "15.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "johnson": {
+    "name": "Johnson",
+    "icon": "🚗",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2700",
+          "3700",
+          "4950",
+          "6200"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "145",
+          "177",
+          "209"
+        ],
+        [
+          "Physical Defense",
+          "27",
+          "59",
+          "99",
+          "139"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.09",
+          "1.16",
+          "1.24"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "joy": {
+    "name": "Joy",
+    "icon": "",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2519",
+          "3359",
+          "4409",
+          "5459"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "158",
+          "206",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "38",
+          "60",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.12",
+          "1.20",
+          "1.30",
+          "1.40"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "julian": {
+    "name": "Julian",
+    "icon": "",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2700",
+          "3620",
+          "4770",
+          "5920"
+        ],
+        [
+          "Physical ATK",
+          "128",
+          "165",
+          "211",
+          "257"
+        ],
+        [
+          "Physical Defense",
+          "24",
+          "42",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.10",
+          "1.20",
+          "1.32",
+          "1.45"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "kadita": {
+    "name": "Kadita",
+    "icon": "",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3100",
+          "3925",
+          "4750"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "126",
+          "152",
+          "178"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.06",
+          "1.13",
+          "1.21"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "10.0",
+          "11.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "kagura": {
+    "name": "Kagura",
+    "icon": "🎎",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "118",
+          "150",
+          "190",
+          "230"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.02",
+          "1.06",
+          "1.11",
+          "1.16"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.6",
+          "10.6",
+          "12.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "kaja": {
+    "name": "Kaja",
+    "icon": "⚡",
+    "roles": [
+      "fighter",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2431",
+          "3331",
+          "4456",
+          "5581"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "148",
+          "183",
+          "218"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "41",
+          "62",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.13",
+          "1.23",
+          "1.33"
+        ],
+        [
+          "HP Regen",
+          "10.4",
+          "12.8",
+          "15.8",
+          "18.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "kalea": {
+    "name": "Kalea",
+    "icon": "🧜‍♀️",
+    "roles": [
+      "fighter",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2500",
+          "3460",
+          "4660",
+          "5860"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "163",
+          "209",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "40",
+          "67",
+          "95"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.22",
+          "1.32",
+          "1.42"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "10.2",
+          "13.2",
+          "16.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "karina": {
+    "name": "Karina",
+    "icon": "🗡️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2474",
+          "3285",
+          "4299",
+          "5313"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "154",
+          "195",
+          "236"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "38",
+          "61",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.12",
+          "1.24",
+          "1.39",
+          "1.54"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "karrie": {
+    "name": "Karrie",
+    "icon": "🦋",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2278",
+          "2938",
+          "3763",
+          "4588"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "170",
+          "232",
+          "295"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "34",
+          "55",
+          "77"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.04",
+          "1.12",
+          "1.22",
+          "1.32"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "8.8",
+          "10.0",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "khaleed": {
+    "name": "Khaleed",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2600",
+          "3500",
+          "4625",
+          "5750"
+        ],
+        [
+          "Physical ATK",
+          "109",
+          "147",
+          "194",
+          "242"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "41",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.11",
+          "1.18",
+          "1.26"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "khufra": {
+    "name": "Khufra",
+    "icon": "🤡",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2670",
+          "3690",
+          "4965",
+          "6240"
+        ],
+        [
+          "Physical ATK",
+          "117",
+          "142",
+          "173",
+          "204"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "47",
+          "83",
+          "119"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.04",
+          "1.11",
+          "1.19"
+        ],
+        [
+          "HP Regen",
+          "9.4",
+          "11.8",
+          "15.0",
+          "18.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "kimmy": {
+    "name": "Kimmy",
+    "icon": "🔫",
+    "roles": [
+      "mage",
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "100",
+          "140",
+          "190",
+          "240"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.00",
+          "1.00",
+          "1.00"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "8.8",
+          "10.0",
+          "11.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lancelot": {
+    "name": "Lancelot",
+    "icon": "🗡️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2390",
+          "3038",
+          "3848",
+          "4658"
+        ],
+        [
+          "Physical ATK",
+          "124",
+          "171",
+          "230",
+          "289"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "32",
+          "52",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.14",
+          "1.21",
+          "1.29"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lapulapu": {
+    "name": "Lapu-Lapu",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2450",
+          "3363",
+          "4504",
+          "5646"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "152",
+          "193",
+          "234"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "61",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.12",
+          "1.20",
+          "1.30",
+          "1.40"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.6",
+          "10.6",
+          "12.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "layla": {
+    "name": "Layla",
+    "icon": "",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2250",
+          "2858",
+          "3618",
+          "4378"
+        ],
+        [
+          "Physical ATK",
+          "133",
+          "173",
+          "223",
+          "273"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.14",
+          "1.24",
+          "1.34"
+        ],
+        [
+          "HP Regen",
+          "5.4",
+          "6.2",
+          "7.2",
+          "8.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "leomord": {
+    "name": "Leomord",
+    "icon": "🐴",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2560",
+          "3480",
+          "4630",
+          "5780"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "167",
+          "218",
+          "269"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "62",
+          "85"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.11",
+          "1.18",
+          "1.26"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lesley": {
+    "name": "Lesley",
+    "icon": "",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2280",
+          "2840",
+          "3540",
+          "4240"
+        ],
+        [
+          "Physical ATK",
+          "145",
+          "173",
+          "208",
+          "243"
+        ],
+        [
+          "Physical Defense",
+          "14",
+          "30",
+          "51",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.04",
+          "1.10",
+          "1.17",
+          "1.25"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.2",
+          "10.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "ling": {
+    "name": "Ling",
+    "icon": "🐉",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2369",
+          "2969",
+          "3719",
+          "4469"
+        ],
+        [
+          "Physical ATK",
+          "125",
+          "149",
+          "179",
+          "209"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "36",
+          "58",
+          "81"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.09",
+          "1.19",
+          "1.29"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.6",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lolita": {
+    "name": "Lolita",
+    "icon": "🛡️",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2342",
+          "3074",
+          "3989",
+          "4904"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "142",
+          "177",
+          "211"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "46",
+          "80",
+          "113"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.04",
+          "1.11",
+          "1.19"
+        ],
+        [
+          "HP Regen",
+          "9.6",
+          "12.0",
+          "15.0",
+          "18.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lukas": {
+    "name": "Lukas",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2550",
+          "3358",
+          "4368",
+          "5378"
+        ],
+        [
+          "Physical ATK",
+          "119",
+          "156",
+          "202",
+          "248"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "38",
+          "61",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "8.0",
+          "9.8",
+          "12.0",
+          "14.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lunox": {
+    "name": "Lunox",
+    "icon": "",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3100",
+          "3925",
+          "4750"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "140",
+          "171",
+          "202"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "luoyi": {
+    "name": "Luo Yi",
+    "icon": "🌟",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3140",
+          "4015",
+          "4890"
+        ],
+        [
+          "Physical ATK",
+          "107",
+          "131",
+          "162",
+          "193"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.99",
+          "1.03",
+          "1.08",
+          "1.13"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "lylia": {
+    "name": "Lylia",
+    "icon": "🧙‍♀️",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "113",
+          "140",
+          "173",
+          "207"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "marcel": {
+    "name": "Marcel",
+    "icon": "🐱",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2350",
+          "2950",
+          "3700",
+          "4450"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "130",
+          "155",
+          "180"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.95",
+          "1.00",
+          "1.06",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "martis": {
+    "name": "Martis",
+    "icon": "⚔️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2560",
+          "3436",
+          "4531",
+          "5626"
+        ],
+        [
+          "Physical ATK",
+          "128",
+          "163",
+          "206",
+          "250"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "43",
+          "66",
+          "89"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.18",
+          "1.30",
+          "1.43"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.6",
+          "10.6",
+          "12.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "masha": {
+    "name": "Masha",
+    "icon": "⚔️",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2000",
+          "2320",
+          "2720",
+          "3120"
+        ],
+        [
+          "Physical ATK",
+          "90",
+          "129",
+          "177",
+          "226"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "30",
+          "49",
+          "68"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.96",
+          "1.10",
+          "1.27",
+          "1.45"
+        ],
+        [
+          "HP Regen",
+          "3.8",
+          "5.6",
+          "7.8",
+          "10.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "mathilda": {
+    "name": "Mathilda",
+    "icon": "‍♀️",
+    "roles": [
+      "assassin",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2530",
+          "3334",
+          "4339",
+          "5344"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "147",
+          "180",
+          "214"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "38",
+          "59",
+          "80"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.02",
+          "1.04",
+          "1.07"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "7.8",
+          "9.4",
+          "10.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "melissa": {
+    "name": "Melissa",
+    "icon": "🧸",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2288",
+          "2928",
+          "3728",
+          "4528"
+        ],
+        [
+          "Physical ATK",
+          "123",
+          "151",
+          "186",
+          "221"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "35",
+          "56",
+          "78"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.94",
+          "0.98",
+          "1.03",
+          "1.08"
+        ],
+        [
+          "HP Regen",
+          "6.6",
+          "7.4",
+          "8.6",
+          "9.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "minotaur": {
+    "name": "Minotaur",
+    "icon": "",
+    "roles": [
+      "tank",
+      "support"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2750",
+          "3806",
+          "5126",
+          "6446"
+        ],
+        [
+          "Physical ATK",
+          "123",
+          "143",
+          "169",
+          "195"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "49",
+          "83",
+          "116"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "0.91",
+          "0.99",
+          "1.09",
+          "1.19"
+        ],
+        [
+          "HP Regen",
+          "8.8",
+          "11.2",
+          "14.2",
+          "17.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "minsitthar": {
+    "name": "Minsitthar",
+    "icon": "🛡️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2520",
+          "3372",
+          "4437",
+          "5502"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "158",
+          "204",
+          "250"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "41",
+          "64",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.18",
+          "1.33",
+          "1.48"
+        ],
+        [
+          "HP Regen",
+          "7.4",
+          "9.0",
+          "11.2",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "miya": {
+    "name": "Miya",
+    "icon": "🏹",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2225",
+          "2837",
+          "3602",
+          "4367"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "147",
+          "187",
+          "227"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.06",
+          "1.16",
+          "1.28",
+          "1.41"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "6.8",
+          "8.0",
+          "9.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "moskov": {
+    "name": "Moskov",
+    "icon": "🗡️",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2255",
+          "2827",
+          "3542",
+          "4257"
+        ],
+        [
+          "Physical ATK",
+          "125",
+          "165",
+          "215",
+          "265"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "33",
+          "54",
+          "76"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.03",
+          "1.05",
+          "1.08"
+        ],
+        [
+          "HP Regen",
+          "6.4",
+          "7.2",
+          "8.4",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "nana": {
+    "name": "Nana",
+    "icon": "🐱",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "144",
+          "181",
+          "217"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.18",
+          "1.30",
+          "1.43"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "natalia": {
+    "name": "Natalia",
+    "icon": "️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2480",
+          "3196",
+          "4091",
+          "4986"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "156",
+          "199",
+          "243"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "75"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.10",
+          "1.16",
+          "1.23",
+          "1.31"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "natan": {
+    "name": "Natan",
+    "icon": "⏳",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2285",
+          "2925",
+          "3725",
+          "4525"
+        ],
+        [
+          "Physical ATK",
+          "107",
+          "155",
+          "215",
+          "275"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "54",
+          "75"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.87",
+          "0.91",
+          "0.96",
+          "1.01"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "6.8",
+          "8.0",
+          "9.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "nolan": {
+    "name": "Nolan",
+    "icon": "⚔️",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2390",
+          "3038",
+          "3848",
+          "4658"
+        ],
+        [
+          "Physical ATK",
+          "124",
+          "171",
+          "230",
+          "289"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "32",
+          "52",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.16",
+          "1.26",
+          "1.36"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "novaria": {
+    "name": "Novaria",
+    "icon": "🌌",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2260",
+          "2800",
+          "3475",
+          "4150"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "140",
+          "171",
+          "202"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "29",
+          "46",
+          "64"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.01",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "obsidia": {
+    "name": "Obsidia",
+    "icon": "🕷️",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "2920",
+          "3670",
+          "4420"
+        ],
+        [
+          "Physical ATK",
+          "120",
+          "140",
+          "165",
+          "190"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.05",
+          "1.10",
+          "1.15"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "odette": {
+    "name": "Odette",
+    "icon": "🩰",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3140",
+          "4015",
+          "4890"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "126",
+          "152",
+          "178"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.06",
+          "1.13",
+          "1.21"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "paquito": {
+    "name": "Paquito",
+    "icon": "🥊",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2620",
+          "3440",
+          "4465",
+          "5490"
+        ],
+        [
+          "Physical ATK",
+          "121",
+          "161",
+          "211",
+          "262"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "40",
+          "63",
+          "86"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.22",
+          "1.32",
+          "1.44",
+          "1.57"
+        ],
+        [
+          "HP Regen",
+          "9.8",
+          "11.6",
+          "13.8",
+          "16.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "pharsa": {
+    "name": "Pharsa",
+    "icon": "🦅",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "2900",
+          "3625",
+          "4350"
+        ],
+        [
+          "Physical ATK",
+          "109",
+          "134",
+          "167",
+          "199"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "32",
+          "52",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "phoveus": {
+    "name": "Phoveus",
+    "icon": "🗡️",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2650",
+          "3530",
+          "4630",
+          "5730"
+        ],
+        [
+          "Physical ATK",
+          "132",
+          "163",
+          "201",
+          "240"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "42",
+          "65",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.02",
+          "1.06",
+          "1.11",
+          "1.16"
+        ],
+        [
+          "HP Regen",
+          "10.8",
+          "12.6",
+          "15.2",
+          "17.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "popol": {
+    "name": "Popol and Kupa",
+    "icon": "🐺",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2860",
+          "3560",
+          "4260"
+        ],
+        [
+          "Physical ATK",
+          "100",
+          "128",
+          "163",
+          "198"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "31",
+          "49",
+          "67"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "6.8",
+          "8.0",
+          "9.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "rafaela": {
+    "name": "Rafaela",
+    "icon": "👼",
+    "roles": [
+      "support",
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2900",
+          "3650",
+          "4400"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "125",
+          "150",
+          "175"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "28",
+          "45",
+          "62"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.95",
+          "1.00",
+          "1.06",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "7.0",
+          "8.2",
+          "9.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "roger": {
+    "name": "Roger",
+    "icon": "🐺",
+    "roles": [
+      "fighter",
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2530",
+          "3204",
+          "4046",
+          "4889"
+        ],
+        [
+          "Physical ATK",
+          "128",
+          "182",
+          "249",
+          "317"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "39",
+          "60",
+          "82"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.11",
+          "1.18",
+          "1.26"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.2",
+          "10.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "ruby": {
+    "name": "Ruby",
+    "icon": "🧣",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2331",
+          "3071",
+          "3996",
+          "4921"
+        ],
+        [
+          "Physical ATK",
+          "129",
+          "156",
+          "191",
+          "226"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "10",
+          "20",
+          "32",
+          "45"
+        ],
+        [
+          "Attack Speed",
+          "1.07",
+          "1.15",
+          "1.25",
+          "1.35"
+        ],
+        [
+          "HP Regen",
+          "6.0",
+          "8.2",
+          "11.0",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "saber": {
+    "name": "Saber",
+    "icon": "🤖",
+    "roles": [
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3160",
+          "4060",
+          "4960"
+        ],
+        [
+          "Physical ATK",
+          "118",
+          "157",
+          "205",
+          "254"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "36",
+          "56",
+          "77"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.16",
+          "1.26",
+          "1.36"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "selena": {
+    "name": "Selena",
+    "icon": "🕷️",
+    "roles": [
+      "mage",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2280",
+          "3068",
+          "4053",
+          "5038"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "137",
+          "170",
+          "204"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "31",
+          "51",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.06",
+          "1.13",
+          "1.21"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "silvanna": {
+    "name": "Silvanna",
+    "icon": "👑",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2650",
+          "3498",
+          "4558",
+          "5618"
+        ],
+        [
+          "Physical ATK",
+          "126",
+          "163",
+          "209",
+          "255"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "40",
+          "62",
+          "85"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.26",
+          "1.41",
+          "1.56"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.4",
+          "11.8",
+          "14.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "sora": {
+    "name": "Sora",
+    "icon": "⚔️",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2800",
+          "3680",
+          "4780",
+          "5880"
+        ],
+        [
+          "Physical ATK",
+          "145",
+          "176",
+          "214",
+          "253"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "42",
+          "65",
+          "87"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.02",
+          "1.06",
+          "1.11",
+          "1.16"
+        ],
+        [
+          "HP Regen",
+          "10.8",
+          "12.6",
+          "15.2",
+          "17.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "sun": {
+    "name": "Sun",
+    "icon": "",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2500",
+          "3220",
+          "4120",
+          "5020"
+        ],
+        [
+          "Physical ATK",
+          "114",
+          "136",
+          "163",
+          "191"
+        ],
+        [
+          "Physical Defense",
+          "23",
+          "41",
+          "63",
+          "86"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.14",
+          "1.22",
+          "1.32",
+          "1.42"
+        ],
+        [
+          "HP Regen",
+          "8.2",
+          "10.4",
+          "13.0",
+          "15.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "suyou": {
+    "name": "Suyou",
+    "icon": "🗡️",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2390",
+          "3038",
+          "3848",
+          "4658"
+        ],
+        [
+          "Physical ATK",
+          "124",
+          "171",
+          "230",
+          "289"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "32",
+          "52",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.16",
+          "1.26",
+          "1.36"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.8",
+          "11.0",
+          "13.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "terizla": {
+    "name": "Terizla",
+    "icon": "🛡️",
+    "roles": [
+      "tank",
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2619",
+          "3539",
+          "4689",
+          "5839"
+        ],
+        [
+          "Physical ATK",
+          "129",
+          "180",
+          "243",
+          "307"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "48",
+          "85",
+          "122"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.00",
+          "1.00",
+          "1.00"
+        ],
+        [
+          "HP Regen",
+          "10.8",
+          "12.6",
+          "15.2",
+          "17.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "thamuz": {
+    "name": "Thamuz",
+    "icon": "🔥",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2580",
+          "3492",
+          "4632",
+          "5772"
+        ],
+        [
+          "Physical ATK",
+          "107",
+          "140",
+          "181",
+          "222"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "35",
+          "57",
+          "80"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.11",
+          "1.18",
+          "1.26"
+        ],
+        [
+          "HP Regen",
+          "7.4",
+          "9.0",
+          "11.0",
+          "13.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "tigreal": {
+    "name": "Tigreal",
+    "icon": "🛡️",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2581",
+          "3809",
+          "5344",
+          "6879"
+        ],
+        [
+          "Physical ATK",
+          "112",
+          "139",
+          "173",
+          "207"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "53",
+          "94",
+          "136"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.11",
+          "1.21",
+          "1.31"
+        ],
+        [
+          "HP Regen",
+          "8.4",
+          "10.8",
+          "13.8",
+          "16.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "uranus": {
+    "name": "Uranus",
+    "icon": "🛡️",
+    "roles": [
+      "tank"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3160",
+          "4135",
+          "5110"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "144",
+          "181",
+          "217"
+        ],
+        [
+          "Physical Defense",
+          "19",
+          "43",
+          "74",
+          "105"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.04",
+          "1.12",
+          "1.22",
+          "1.32"
+        ],
+        [
+          "HP Regen",
+          "6.4",
+          "8.6",
+          "11.6",
+          "14.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "vale": {
+    "name": "Vale",
+    "icon": "️",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "143",
+          "179",
+          "215"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "valentina": {
+    "name": "Valentina",
+    "icon": "👑",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2500",
+          "3240",
+          "4165",
+          "5090"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "140",
+          "173",
+          "205"
+        ],
+        [
+          "Physical Defense",
+          "20",
+          "38",
+          "60",
+          "83"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "valir": {
+    "name": "Valir",
+    "icon": "🔥",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "105",
+          "124",
+          "147",
+          "171"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "vexana": {
+    "name": "Vexana",
+    "icon": "💀",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "112",
+          "135",
+          "164",
+          "193"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "7.6",
+          "8.8",
+          "10.2",
+          "11.8"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "wanwan": {
+    "name": "Wanwan",
+    "icon": "🐯",
+    "roles": [
+      "marksman"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2300",
+          "2900",
+          "3650",
+          "4400"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "138",
+          "173",
+          "208"
+        ],
+        [
+          "Physical Defense",
+          "15",
+          "31",
+          "51",
+          "71"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.16",
+          "1.26",
+          "1.36"
+        ],
+        [
+          "HP Regen",
+          "5.4",
+          "6.2",
+          "7.2",
+          "8.2"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "xborg": {
+    "name": "X.Borg",
+    "icon": "🔥",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "917",
+          "1383",
+          "1965",
+          "2548"
+        ],
+        [
+          "Armor HP",
+          "1467",
+          "1933",
+          "2515",
+          "3098"
+        ],
+        [
+          "Physical ATK",
+          "117",
+          "150",
+          "191",
+          "232"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "43",
+          "67",
+          "90"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.08",
+          "1.12",
+          "1.17",
+          "1.22"
+        ],
+        [
+          "HP Regen",
+          "7.8",
+          "9.4",
+          "11.4",
+          "13.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "xavier": {
+    "name": "Xavier",
+    "icon": "⚔️",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "111",
+          "136",
+          "167",
+          "198"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "yisunshin": {
+    "name": "Yi Sun-shin",
+    "icon": "",
+    "roles": [
+      "marksman",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "2920",
+          "3670",
+          "4420"
+        ],
+        [
+          "Physical ATK",
+          "110",
+          "142",
+          "182",
+          "222"
+        ],
+        [
+          "Physical Defense",
+          "22",
+          "39",
+          "60",
+          "82"
+        ],
+        [
+          "Magic Defense",
+          "10",
+          "20",
+          "32",
+          "45"
+        ],
+        [
+          "Attack Speed",
+          "1.03",
+          "1.07",
+          "1.12",
+          "1.17"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.0",
+          "9.2",
+          "10.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "yin": {
+    "name": "Yin",
+    "icon": "👊",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2400",
+          "3220",
+          "4245",
+          "5270"
+        ],
+        [
+          "Physical ATK",
+          "109",
+          "138",
+          "174",
+          "210"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "61",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.07",
+          "1.17",
+          "1.29",
+          "1.42"
+        ],
+        [
+          "HP Regen",
+          "9.8",
+          "11.6",
+          "13.8",
+          "16.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "yuzhong": {
+    "name": "Yu Zhong",
+    "icon": "🐉",
+    "roles": [
+      "fighter"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2520",
+          "3360",
+          "4410",
+          "5460"
+        ],
+        [
+          "Physical ATK",
+          "129",
+          "176",
+          "234",
+          "293"
+        ],
+        [
+          "Physical Defense",
+          "21",
+          "39",
+          "61",
+          "84"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.04",
+          "1.09",
+          "1.14"
+        ],
+        [
+          "HP Regen",
+          "11.8",
+          "13.6",
+          "16.2",
+          "18.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "yve": {
+    "name": "Yve",
+    "icon": "🌌",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2320",
+          "2900",
+          "3625",
+          "4350"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "140",
+          "173",
+          "205"
+        ],
+        [
+          "Physical Defense",
+          "16",
+          "32",
+          "52",
+          "72"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "zetian": {
+    "name": "Zetian",
+    "icon": "👑",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "3000",
+          "3775",
+          "4550"
+        ],
+        [
+          "Physical ATK",
+          "95",
+          "115",
+          "140",
+          "165"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.90",
+          "0.94",
+          "0.99",
+          "1.04"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "zhask": {
+    "name": "Zhask",
+    "icon": "🦂",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2380",
+          "2960",
+          "3685",
+          "4410"
+        ],
+        [
+          "Physical ATK",
+          "107",
+          "136",
+          "172",
+          "208"
+        ],
+        [
+          "Physical Defense",
+          "17",
+          "33",
+          "53",
+          "73"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.00",
+          "1.00",
+          "1.00",
+          "1.00"
+        ],
+        [
+          "HP Regen",
+          "6.8",
+          "8.0",
+          "9.4",
+          "11.0"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "zhuxin": {
+    "name": "Zhuxin",
+    "icon": "🏮",
+    "roles": [
+      "mage"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2440",
+          "3100",
+          "3925",
+          "4750"
+        ],
+        [
+          "Physical ATK",
+          "115",
+          "140",
+          "173",
+          "205"
+        ],
+        [
+          "Physical Defense",
+          "18",
+          "34",
+          "54",
+          "74"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "0.98",
+          "1.02",
+          "1.07",
+          "1.12"
+        ],
+        [
+          "HP Regen",
+          "7.2",
+          "8.4",
+          "9.8",
+          "11.4"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  },
+  "zilong": {
+    "name": "Zilong",
+    "icon": "",
+    "roles": [
+      "fighter",
+      "assassin"
+    ],
+    "stats": {
+      "headers": [
+        "Stat",
+        "Level 1",
+        "Level 5",
+        "Level 10",
+        "Level 15"
+      ],
+      "rows": [
+        [
+          "HP",
+          "2511",
+          "3379",
+          "4464",
+          "5549"
+        ],
+        [
+          "Physical ATK",
+          "123",
+          "159",
+          "204",
+          "249"
+        ],
+        [
+          "Physical Defense",
+          "25",
+          "43",
+          "67",
+          "90"
+        ],
+        [
+          "Magic Defense",
+          "15",
+          "25",
+          "37",
+          "50"
+        ],
+        [
+          "Attack Speed",
+          "1.05",
+          "1.13",
+          "1.23",
+          "1.33"
+        ],
+        [
+          "HP Regen",
+          "7.0",
+          "8.6",
+          "10.6",
+          "12.6"
+        ]
+      ]
+    },
+    "growth": [],
+    "conclusion": []
+  }
+}
